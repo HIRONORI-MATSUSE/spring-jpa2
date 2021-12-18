@@ -20,5 +20,5 @@ public class Comment {
     
     @NotBlank
     @Size(max = 40)
-    private String coment;
+    private String content;
     }
